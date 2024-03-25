@@ -1,0 +1,7 @@
+#ignore everything
+*
+*/
+
+#unignore what we want to track
+!*.py
+!.gitignore
