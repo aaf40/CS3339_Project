@@ -1,7 +1,11 @@
-#ignore everything
+# ignore everything
 *
 */
 
-#unignore what we want to track
+# unignore what we want to track
 !*.py
 !.gitignore
+
+# unignore specific folders
+!CPU_Tests/
+!GPU_Tests/
