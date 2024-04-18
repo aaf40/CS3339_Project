@@ -4,6 +4,8 @@
 
 # unignore what we want to track
 !*.py
+!*.cpp
+!*.cu
 !.gitignore
 
 # unignore specific folders
