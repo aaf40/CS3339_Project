@@ -1,10 +1,11 @@
-// compile command: g++ -std=c++17 -O2 -o CpuMatrixMul CpuMatrixMul.cpp
+// compile command: g++ -std=c++17 -O2 -fopenmp -o CpuMatrixMul CpuMatrixMul.cpp
 // run command: time ./CpuMatrixMul
 
 #include <iostream>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
+#include <omp.h>
 
 void InitializeMatrix(std::vector<std::vector<float>>& matrix) {
     for (auto& row : matrix) {
@@ -19,12 +20,14 @@ void MatrixMultiply(const std::vector<std::vector<float>>& A, const std::vector<
     int colsA = A[0].size();
     int colsB = B[0].size();
 
+    #pragma omp parallel for
     for (int i = 0; i < rowsA; ++i) {
         for (int j = 0; j < colsB; ++j) {
-            C[i][j] = 0;
+            float sum = 0;
             for (int k = 0; k < colsA; ++k) {
-                C[i][j] += A[i][k] * B[k][j];
+                sum += A[i][k] * B[k][j];
             }
+            C[i][j] = sum;
         }
     }
 }
