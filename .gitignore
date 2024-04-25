@@ -11,3 +11,11 @@
 # unignore specific folders
 !CPU_Tests/
 !GPU_Tests/
+# !matrixMul/
+# !mergeSort/
+# !verctorAdd/
+
+# unignore everything inside cuda sample directories (recursively)
+# !matrixMul/**
+# !mergeSort/**
+# !verctorAdd/**
