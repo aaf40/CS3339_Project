@@ -1,6 +1,6 @@
 # Project to compare CPU vs GPU performance
 
-### GPU tests come from [NVDIA CUDA samples repo](https://github.com/NVIDIA/cuda-samples/tree/master)
+#### GPU tests come from [NVDIA CUDA samples repo](https://github.com/NVIDIA/cuda-samples/tree/master)
 
 ## CPU tests usage:
 
