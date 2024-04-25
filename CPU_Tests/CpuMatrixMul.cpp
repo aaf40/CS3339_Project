@@ -34,7 +34,7 @@ int main() {
     int widthA = 320;
     int heightA = 320;
     int widthB = 320;
-    int heightB = 320;
+    int heightB = 640;
 
     if (widthA != heightB) {
         std::cerr << "Error: Inner matrix dimensions must match!" << std::endl;
