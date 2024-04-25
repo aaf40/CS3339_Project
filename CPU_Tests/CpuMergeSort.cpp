@@ -1,10 +1,11 @@
-// command to compile: g++ -std=c++17 -O2 -o CpuMergeSort CpuMergeSort.cpp
+// command to compile: g++ -std=c++17 -O2 -fopenmp -o CpuMergeSort CpuMergeSort.cpp
 // command to run: time ./CpuMergeSort
 
 #include <iostream>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
+#include <omp.h>
 
 typedef unsigned int uint;
 
@@ -51,8 +52,13 @@ void mergeSort(std::vector<uint>& array, int left, int right) {
     if (left < right) {
         int mid = left + (right - left) / 2;
 
-        mergeSort(array, left, mid);
-        mergeSort(array, mid + 1, right);
+        #pragma omp parallel sections
+        {
+            #pragma omp section
+            mergeSort(array, left, mid);
+            #pragma omp section
+            mergeSort(array, mid + 1, right);
+        }
 
         merge(array, left, mid, right);
     }

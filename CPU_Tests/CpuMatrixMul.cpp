@@ -33,7 +33,7 @@ void MatrixMultiply(const std::vector<std::vector<float>>& A, const std::vector<
 }
 
 int main() {
-
+    // same dimensions as original matrices
     int widthA = 320;
     int heightA = 320;
     int widthB = 640;

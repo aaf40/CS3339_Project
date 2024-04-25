@@ -15,7 +15,7 @@ void vectorAdd(const float *A, const float *B, float *C, int numElements) {
 
 int main() {
 
-    int numElements = 50000;
+    int numElements = 50000; // same size as originzal vector size
     size_t size = numElements * sizeof(float);
 
     float *h_A = (float *)malloc(size);

@@ -7,7 +7,7 @@
 # compile command: g++ -std=c++17 -O2 -fopenmp -o CpuMatrixMul CpuMatrixMul.cpp
 # run command: time ./CpuMatrixMul
 #
-# command to compile: g++ -o CpuMergeSort CpuMergeSort.cpp
+# command to compile: g++ -std=c++17 -O2 -fopenmp -o CpuMergeSort CpuMergeSort.cpp
 # command to run: time ./CpuMergeSort
 #
 # compile command: g++ -std=c++17 -O2 -fopenmp -o CpuVectorAdd CpuVectorAdd.cpp
