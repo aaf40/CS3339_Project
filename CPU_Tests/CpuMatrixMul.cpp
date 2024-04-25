@@ -1,4 +1,4 @@
-// compile command: g++ -o CpuMatrixMul CpuMatrixMul.cpp
+// compile command: g++ -std=c++17 -O2 -o CpuMatrixMul CpuMatrixMul.cpp
 // run command: time ./CpuMatrixMul
 
 #include <iostream>

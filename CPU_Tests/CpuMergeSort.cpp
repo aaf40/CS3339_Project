@@ -1,4 +1,4 @@
-// command to compile: g++ -o CpuMergeSort CpuMergeSort.cpp
+// command to compile: g++ -std=c++17 -O2 -o CpuMergeSort CpuMergeSort.cpp
 // command to run: time ./CpuMergeSort
 
 #include <iostream>

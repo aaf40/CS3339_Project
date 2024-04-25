@@ -1,4 +1,4 @@
-// compile command: g++ -o CpuVectorAdd CpuVectorAdd.cpp
+// compile command: g++ -std=c++17 -O2 -o CpuVectorAdd CpuVectorAdd.cpp
 // run command: time ./CpuVectorAdd
 
 #include <iostream>
