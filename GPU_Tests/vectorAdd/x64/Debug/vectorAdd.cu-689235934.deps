@@ -1,0 +1,146 @@
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\errno.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\sys\stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\sys\types.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\builtin_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\channel_descriptor.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\common_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\cudacc_ext.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\device_double_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\device_double_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\device_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\device_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\host_config.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\host_defines.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\math_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\math_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\sm_70_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\sm_80_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\crt\sm_90_rt.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\cuda_device_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\cuda_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\device_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\device_launch_parameters.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\device_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\driver_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\driver_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\library_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_20_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_20_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_30_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_32_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_32_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_35_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_35_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_60_atomic_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\sm_61_intrinsics.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\surface_indirect_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\surface_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\texture_indirect_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\texture_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\vector_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\vector_functions.hpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include\vector_types.h
+C:\Users\aafer\Desktop\Spring 2024\Architecture\Project\CUDA_Samples\cuda-samples-master\Common\helper_cuda.h
+C:\Users\aafer\Desktop\Spring 2024\Architecture\Project\CUDA_Samples\cuda-samples-master\Common\helper_string.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\atomic
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cctype
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cerrno
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cfloat
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\climits
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\clocale
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cmath
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\concurrencysal.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\crtdefs.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cstddef
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cstdint
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cstdio
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cstdlib
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cstring
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\ctime
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\cwchar
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\eh.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\exception
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\fstream
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\initializer_list
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\intrin0.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\intrin0.inl.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\ios
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\iosfwd
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\istream
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\iterator
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\limits
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\limits.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\memory
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\new
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\ostream
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\sal.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\stdexcept
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\stdint.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\streambuf
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\string
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\system_error
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\typeinfo
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\type_traits
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\use_ansi.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\utility
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vadefs.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vcruntime.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vcruntime_new.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vcruntime_new_debug.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vcruntime_string.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\vcruntime_typeinfo.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xatomic.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xcall_once.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xerrc.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xfacet
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xiosbase
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xkeycheck.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xlocale
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xlocinfo
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xlocnum
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xmemory
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xstring
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xthreads.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xtimec.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xtr1common
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\xutility
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\yvals.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\yvals_core.h
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\__msvc_filebuf.hpp
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\__msvc_iter_core.hpp
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\__msvc_sanitizer_annotate_container.hpp
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\__msvc_system_error_abi.hpp
+D:\Organization\Visual Studio\VC\Tools\MSVC\14.39.33519\include\__msvc_xlocinfo_types.hpp
