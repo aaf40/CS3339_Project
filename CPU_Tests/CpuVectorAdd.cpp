@@ -1,11 +1,13 @@
-// compile command: g++ -std=c++17 -O2 -o CpuVectorAdd CpuVectorAdd.cpp
+// compile command: g++ -std=c++17 -O2 -fopenmp -o CpuVectorAdd CpuVectorAdd.cpp
 // run command: time ./CpuVectorAdd
 
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
+#include <omp.h>
 
 void vectorAdd(const float *A, const float *B, float *C, int numElements) {
+    #pragma omp parallel for
     for (int i = 0; i < numElements; ++i) {
         C[i] = A[i] + B[i];
     }
